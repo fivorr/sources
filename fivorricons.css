@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'fontello';
-  src: url('../font/fontello.eot?86403112');
-  src: url('../font/fontello.eot?86403112#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff2?86403112') format('woff2'),
-       url('../font/fontello.woff?86403112') format('woff'),
-       url('../font/fontello.ttf?86403112') format('truetype'),
-       url('../font/fontello.svg?86403112#fontello') format('svg');
+  src: url('https://github.com/fivorr/sources/blob/master/fivorricons/fivorricons.eot?86403112');
+  src: url('https://github.com/fivorr/sources/blob/master/fivorricons/fivorricons.eot?86403112#iefix') format('embedded-opentype'),
+       url('https://github.com/fivorr/sources/blob/master/fivorricons/fivorricons.woff2?86403112') format('woff2'),
+       url('https://github.com/fivorr/sources/blob/master/fivorricons/fivorricons.woff?86403112') format('woff'),
+       url('https://github.com/fivorr/sources/blob/master/fivorricons/fivorricons.ttf?86403112') format('truetype'),
+       url('https://github.com/fivorr/sources/blob/master/fivorricons/fivorricons.svg?86403112#fontello') format('svg');
   font-weight: normal;
   font-style: normal;
 }
